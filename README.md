@@ -1,5 +1,3 @@
-<p align="center"><a href="https://kawsar-ahmad.vercel.app/" target="_blank"><img src="https://ibb.co/6Yv7hXL"></a></p>
-
 
 
 ![Link-Wizard app](https://user-images.githubusercontent.com/54704888/205476263-a9439eab-ffef-49f5-94e1-e2a731ca69c7.PNG)
