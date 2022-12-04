@@ -1,5 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank">![linkWIzardMain-removebg-preview (2)](https://user-images.githubusercontent.com/54704888/205476313-845af5e6-9f08-4857-b1ff-0e1c4a163f62.png)</a></p>
-
+<center>
+![linkWIzardMain-removebg-preview (2)](https://user-images.githubusercontent.com/54704888/205476313-845af5e6-9f08-4857-b1ff-0e1c4a163f62.png)
+</center>
 
 
 
